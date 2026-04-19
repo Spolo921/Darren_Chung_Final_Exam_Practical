@@ -7,6 +7,8 @@ Part 1
 <img width="545" height="408" alt="FrontView" src="https://github.com/user-attachments/assets/f44f1380-2970-491b-aea7-37cde0d378ee" />
 
 
+
+Part 3
 # Explainations 
 This controller uses the Imu and the minicontroller in order to move the player, and using the leds and buzzers to alert the player for the nitro overheating, the controller focused on staying compact to allow the player to constantly move it, and used many built in parts to use less space. The controlller itself uses a hole on the top for the minicontroller to be connected and beyond that it is easy to move. The controller is split into a base and lid for easy access to all compoments for replacement, and the board itself is mounted via screws
 
